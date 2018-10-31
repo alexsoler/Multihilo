@@ -1,0 +1,11 @@
+D:\Documentos 2\.net core\Multihilo-1\bin\Debug\netcoreapp2.1\Multihilo.deps.json
+D:\Documentos 2\.net core\Multihilo-1\bin\Debug\netcoreapp2.1\Multihilo.runtimeconfig.json
+D:\Documentos 2\.net core\Multihilo-1\bin\Debug\netcoreapp2.1\Multihilo.runtimeconfig.dev.json
+D:\Documentos 2\.net core\Multihilo-1\bin\Debug\netcoreapp2.1\Multihilo.dll
+D:\Documentos 2\.net core\Multihilo-1\bin\Debug\netcoreapp2.1\Multihilo.pdb
+D:\Documentos 2\.net core\Multihilo-1\obj\Debug\netcoreapp2.1\Multihilo.csprojAssemblyReference.cache
+D:\Documentos 2\.net core\Multihilo-1\obj\Debug\netcoreapp2.1\Multihilo.csproj.CoreCompileInputs.cache
+D:\Documentos 2\.net core\Multihilo-1\obj\Debug\netcoreapp2.1\Multihilo.AssemblyInfoInputs.cache
+D:\Documentos 2\.net core\Multihilo-1\obj\Debug\netcoreapp2.1\Multihilo.AssemblyInfo.cs
+D:\Documentos 2\.net core\Multihilo-1\obj\Debug\netcoreapp2.1\Multihilo.dll
+D:\Documentos 2\.net core\Multihilo-1\obj\Debug\netcoreapp2.1\Multihilo.pdb

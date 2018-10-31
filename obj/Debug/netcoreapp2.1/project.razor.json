@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Documentos 2\\.net core\\Multihilo-1\\Multihilo.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

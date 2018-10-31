@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos 2\\.net core\\Multihilo\\Multihilo.csproj",
+      "projectUniqueName": "D:\\Documentos 2\\.net core\\Multihilo-1\\Multihilo.csproj",
       "projectName": "Multihilo",
-      "projectPath": "D:\\Documentos 2\\.net core\\Multihilo\\Multihilo.csproj",
+      "projectPath": "D:\\Documentos 2\\.net core\\Multihilo-1\\Multihilo.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos 2\\.net core\\Multihilo\\obj\\",
+      "outputPath": "D:\\Documentos 2\\.net core\\Multihilo-1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
